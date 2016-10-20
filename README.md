@@ -3,6 +3,7 @@
 ## Usage
 
 1. **Create an app from LTS 4** `rhc create-app <app name> http://nodecartridge-dongrht.rhcloud.com/manifest/LTS-4`
+1. **Create an app from LTS 6** `rhc create-app <app name> http://nodecartridge-dongrht.rhcloud.com/manifest/LTS-6`
 2. **Create an app from the latest stable release** `rhc create-app <app name> http://nodecartridge-dongrht.rhcloud.com/manifest/stable`
 3. **Create an app from the latest unstable release** `rhc create-app <app name> http://nodecartridge-dongrht.rhcloud.com/manifest/unstable`
 
@@ -26,8 +27,5 @@ Thanks to all!
 ---
 These repos helped out a ton while developing this cartridge.
 
-1. [engineersamuel/openshift-origin-cartridge-nodejs](https://github.com/engineersamuel/openshift-origin-cartridge-nodejs)
-2. [wshearn/openshift-origin-cartridge-nodejs](https://github.com/wshearn/openshift-origin-cartridge-nodejs)
-3. [ramr/nodejs-custom-version-openshift](https://github.com/ramr/nodejs-custom-version-openshift)
-4. [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs)
-5. [connyay/openshift-node-diy](https://github.com/connyay/openshift-node-diy)
+1. [connyay/openshift-node-diy](https://github.com/connyay/openshift-node-diy)
+2. [smarterclayton/openshift-cdk-cart](https://github.com/smarterclayton/openshift-cdk-cart)
