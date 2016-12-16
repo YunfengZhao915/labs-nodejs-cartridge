@@ -9,8 +9,8 @@
 
 What this cartridge provides out of the box
 ---
-1. **node.js** ([latest LTS](https://semver.io/node/resolve/4) currently 4.6.0)
-2. **npm** (latest stable currently 2.15.9)
+1. **node.js** ([latest LTS](https://semver.io/node/resolve/6) currently 6.9.1)
+2. **npm** (latest stable currently 3.10.8)
 3. **grunt**
 4. **bower**
 
